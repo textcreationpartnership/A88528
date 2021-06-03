@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A lookjng-glas for sectaryes or true nevvs from Neubery being the relation of the Neubery Annabaptists whereof three were to be carried into Heaven but failed in their iovrney.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88528</idno><idno type="EEBO-CITATION">99864106</idno>
+  <idno type="VID">161345</idno>
+  <idno type="EEBO-PROQUEST">2240902358</idno>
+  
+            <idno type="STC">Wing L3025</idno>
+            <idno type="STC">Thomason E419_20</idno>
+            <idno type="STC">ESTC R204640</idno>
+            <idno type="PROQUEST">99864106</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864106e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88528)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161345)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E419[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A lookjng-glas for sectaryes or true nevvs from Neubery being the relation of the Neubery Annabaptists whereof three were to be carried into Heaven but failed in their iovrney.</title>
+                  <author>M. S.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for M. S.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Anno Dom. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: M.S.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Annotation on Thomason copy: "Decemb: 12th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Anabaptists --  England --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161345:1"/>
+            <p>A LOOKJNG-GLAS FOR SECTARYES Or true Nevves from NEVBERY Being the Relation of the <hi>Neubery ANNABAPTJSTS</hi> whereof three were to be carried into Heaven, but failed in their IOVRNEY.</p>
+            <p>
+               <hi>LONDON.</hi> Printed for <hi>M. S. Anno Dom.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161345:2"/>
+            <pb n="3" facs="tcp:161345:2"/>
+            <head>NEWES FROM NEWBVRY</head>
+            <p>THis October last past at <hi>Newbery</hi> in <hi>Barkshire,</hi> divers Anabaptists of the Brotherhood and Sisters having in<g ref="char:EOLhyphen"/>creased, and growing to a height, and distempring others that were not of their sect, and after their way, they grew to that height of holines, as they conceived, none to be like them, and that they had rapture in the Spirit, and that they had gotten such new lights and Revelations, and such heavenly Jnspirations, that they were so exceedingly enlightned as they presumed to dive into the secrets of the <hi>Allmighty God,</hi> and in such a mistical way as J think't were blasphemy to name nay, some of these Holie Sisters being as they said
+<pb n="4" facs="tcp:161345:3"/> so much illuminated and inspired with divine revelations, tooke upon them to be wrapt up in the Spirit, and to see and know such Glorious things that could not be imagined, and were so possessed with the Spirit; that they had thoughts unexpressable, so that the one of them had such strange <hi>Gestures, Postures</hi> and <hi>Fits,</hi> much like Con<g ref="char:EOLhyphen"/>vultion fits, and was observed when some came to visit her, that then she fell into these strange Gestures, and in so uncoth a manner, that as if the Devill himselfe (which J beleeve was in her) had been there, she could not have mo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> cun<g ref="char:EOLhyphen"/>ningly carried on the designe, for shee was a Schoole mistris, and had learned of the Devill her tutor, to deceive, and it was observed when any came to see her, she would begin to heave up her brest and stomack, and act these strange Ge<g ref="char:EOLhyphen"/>sture, and postures, and speake such strange words, and tell them she saw <hi>Glorious</hi> things, and that she saw such a brother in the Spirit, and such a Sister, and that she should not dye but be taken up into heaven such a Satterday, and another Sister should the Weeke following be also taken up; and such and such were in the state of
+<pb n="5" facs="tcp:161345:3"/> salvation, and lived the life of saints, and in the height of her fits would personat &amp; name such as were of her sect to be holy, &amp; to that effect; name such Sisters as pertaked of the riches of Grace, &amp; such as had given the glorious new lights, &amp; were full of the spirit of (Lying and dissembling) truth, and who were the Elect and chosen of God, and then again declareth that she was to be taken a<g ref="char:EOLhyphen"/>way either in a <hi>Cloud</hi> or <hi>Chariot,</hi> and that death had no power of her, for she was to be carried quick into heaven such a night, and of her confidence drew othem to be of her mind, &amp; that week shee with some of her sisters went abroad to take her leave of the Brothers &amp; sisters, &amp; wept and kissed them, took her leave for her great journey to Hea<g ref="char:EOLhyphen"/>ven, which she was so sure, that she put of all her Scollers, for she taught children, &amp; gave away all her worst cloaths, because she wold go to Heaven clean, &amp; neat, the Saterday was set, &amp; at night the house where she was, all her Sisters met of the A<g ref="char:EOLhyphen"/>nabaptist crew, to accompanie her where were prayer, heavenly speeches and weeping eyes, not few to take their leave &amp; to see her assends to Glory the House two full out into the Backside
+<pb n="6" facs="tcp:161345:4"/> were carried the Stoole, Chayer, and frames, all the people follow, not less then three or four hun<g ref="char:EOLhyphen"/>dred to see this she saint carryed up to heaven, and happy was that sister that could get nearest, <hi>for one got hold of her Coat to be caried away, at which some were offended that should hinder such a Iourny:</hi>
+            </p>
+            <p>It was a Moon-shine night, and were such a joyfull night to these Saints as they professed, &amp; they cry out, the Glorious things of that bright night would bring forth, none were able to ex<g ref="char:EOLhyphen"/>press, for God was sending out his Angell to wait on her, and they saw him comming in the Clouds, <hi>(But all the rest saw no such thing)</hi> stil saying he comes he comes, and a dark ayrie Cloud came under the moon, which did Eclipse the light of the moon, and then they try behould he comes in the clouds, but that vanishing, and the Shee Saint not being taken away, shee begins af<g ref="char:EOLhyphen"/>ter a pause to expostulate that God would ap<g ref="char:EOLhyphen"/>peare to vindicate his honor and power, to make good her Revelations, and in such mannor as it becomes not my Pen to write, and then they per<g ref="char:EOLhyphen"/>ceived a far of comming a flock of wild Geese, which at first they knew not to be so, at which
+<pb n="7" facs="tcp:161345:4"/> they cry he comes, he comes; in Glory, and all hould up their hands of that Sect, and out went their cryes, he comes, he is come, he's come, and she stands ready up to be caryed, and a young Si<g ref="char:EOLhyphen"/>ster cryes hould, to accend with her, and such joy as might be, but the flock of wild Geese fly away, and left their sister and all her Geese to learne more wit, and so their owne Boyes and Girles deryding them, and the ancient men and women pittying their silly foolish carriages, and the delusions of them by the Devill, wished they might learn more wit, and so left them to steale home in the Clouds, and for the other two sisters which were to be caried away, I heard that Goodwife <hi>Blisset,</hi> a sister, was carried suddainly after to a Church 7. miles further, but either by a horse or on her own leggs, but not in clouds, &amp; because some be ve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y sorrowfull and r<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, and do now beleeve, it was the Dive<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s <gap reason="illegible" resp="#keyers" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>ties to de<g ref="char:EOLhyphen"/>lude them, I shall not express their names, But if any misdout of this truth, let them speak with any Newbury people, and then they shall finde I have written truth.</p>
+         </div>
+      </body>
+      <back>
+         <div type="to_the_reader">
+            <pb n="8" facs="tcp:161345:5"/>
+            <p>READER, thou hast here the truth of the NEW<g ref="char:EOLhyphen"/>BERY Anabaptists, but breif and short, in a plaine stile, written by one that is not a writer of Books, I must confesse it should have come out much more larger and bet<g ref="char:EOLhyphen"/>ter compiled, but those who had promised to do it, and were spectators at the beginning, and ending of these delusions, pittying their neighbors silliness in being so misled, and se<g ref="char:EOLhyphen"/>ing a hearty sorrow in them for their Errors, have been a meanes that the Story is not more fuly set out, So I rest,</p>
+            <closer>
+               <signed>M. S.</signed>
+            </closer>
+         </div>
+         <trailer>FJNJS</trailer>
+      </back>
+   </text>
+</TEI>
